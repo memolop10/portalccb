@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="carrito.php" server="ftp.empleosccb.com.mx" local="131733533703996890" remote="131501844000000000" Dst="2" />
+<file name="delCotizacion.php" server="ftp.empleosccb.com.mx" local="131733533711664389" remote="131519988000000000" Dst="2" />
+<file name="consulta.php" server="ftp.empleosccb.com.mx" local="131733533714910321" remote="131520852000000000" Dst="2" />
+<file name="delCentroE.php" server="ftp.empleosccb.com.mx" local="131733533715388967" remote="131595396000000000" Dst="2" />
+<file name="delExpProf.php" server="ftp.empleosccb.com.mx" local="131733533720534077" remote="131595360000000000" Dst="2" />
+<file name="delPedido.php" server="ftp.empleosccb.com.mx" local="131733533720655519" remote="131521716000000000" Dst="2" />
+<file name="delPerfProf.php" server="ftp.empleosccb.com.mx" local="131733533721321613" remote="131595376200000000" Dst="2" />
+<file name="deladmin.php" server="ftp.empleosccb.com.mx" local="131733533727942675" remote="131498388000000000" Dst="2" />
+<file name="delcategori.php" server="ftp.empleosccb.com.mx" local="131733533728053751" remote="131521716000000000" Dst="2" />
+<file name="delprod.php" server="ftp.empleosccb.com.mx" local="131733533728664292" remote="131521716000000000" Dst="2" />
+<file name="delprove.php" server="ftp.empleosccb.com.mx" local="131733533736229678" remote="131521716000000000" Dst="2" />
+<file name="error_log" server="ftp.empleosccb.com.mx" local="131733533738299416" remote="131717033400000000" Dst="2" />
+<file name="fotoOfertas.php" server="ftp.empleosccb.com.mx" local="131733533738905145" remote="131702357400000000" Dst="2" />
+<file name="fotocandidato.php" server="ftp.empleosccb.com.mx" local="131733533744490106" remote="131595295800000000" Dst="2" />
+<file name="login.php" server="ftp.empleosccb.com.mx" local="131733535680384210" remote="131595142200000000" Dst="2" />
+<file name="fotoempresa.php" server="ftp.empleosccb.com.mx" local="131733535534176715" remote="131595479400000000" Dst="2" />
+<file name="logout.php" server="ftp.empleosccb.com.mx" local="131733533751969286" remote="131595469200000000" Dst="2" />
+<file name="regAdmin.php" server="ftp.empleosccb.com.mx" local="131733533753164080" remote="131501844000000000" Dst="2" />
+<file name="regContratacionOfertas.php" server="ftp.empleosccb.com.mx" local="131733534538384276" remote="131594210400000000" Dst="2" />
+<file name="regExpProf.php" server="ftp.empleosccb.com.mx" local="131733534091075746" remote="131595300000000000" Dst="2" />
+<file name="regFormacion.php" server="ftp.empleosccb.com.mx" local="131733534091085603" remote="131595394200000000" Dst="2" />
+<file name="regPerfProf.php" server="ftp.empleosccb.com.mx" local="131733533761054022" remote="131595381600000000" Dst="2" />
+<file name="regPublicaciones.php" server="ftp.empleosccb.com.mx" local="131733533766107822" remote="131595690000000000" Dst="2" />
+<file name="regcategori.php" server="ftp.empleosccb.com.mx" local="131733533767849480" remote="131521716000000000" Dst="2" />
+<file name="regclien.php" server="ftp.empleosccb.com.mx" local="131733535679925428" remote="131588994600000000" Dst="2" />
+<file name="regproduct.php" server="ftp.empleosccb.com.mx" local="131733533773740657" remote="131521716000000000" Dst="2" />
+<file name="regprove.php" server="ftp.empleosccb.com.mx" local="131733533775894717" remote="131501844000000000" Dst="2" />
+<file name="reguser.php" server="ftp.empleosccb.com.mx" local="131733533776932719" remote="131597640000000000" Dst="2" />
+<file name="securityPanel.php" server="ftp.empleosccb.com.mx" local="131733533780790784" remote="131595471600000000" Dst="2" />
+<file name="securityPanelEmpresa.php" server="ftp.empleosccb.com.mx" local="131733533783637637" remote="131604527400000000" Dst="2" />
+<file name="updateCV - copia.php" server="ftp.empleosccb.com.mx" local="131733533785377095" remote="131521716000000000" Dst="2" />
+<file name="updateCategory.php" server="ftp.empleosccb.com.mx" local="131733533788444372" remote="131521716000000000" Dst="2" />
+<file name="updateDPuser.php" server="ftp.empleosccb.com.mx" local="131733534091055717" remote="131595292800000000" Dst="2" />
+<file name="updatePProf.php" server="ftp.empleosccb.com.mx" local="131733533791641274" remote="131589831000000000" Dst="2" />
+<file name="updatePT.php" server="ftp.empleosccb.com.mx" local="131733533794127620" remote="131595420000000000" Dst="2" />
+<file name="updatePedido.php" server="ftp.empleosccb.com.mx" local="131733533796416065" remote="131521716000000000" Dst="2" />
+<file name="updatePerfilE.php" server="ftp.empleosccb.com.mx" local="131733533798989108" remote="131595549000000000" Dst="2" />
+<file name="updateProduct.php" server="ftp.empleosccb.com.mx" local="131733533801234810" remote="131521716000000000" Dst="2" />
+<file name="updateProveedor.php" server="ftp.empleosccb.com.mx" local="131733533803406123" remote="131521716000000000" Dst="2" />
+</dwsync>

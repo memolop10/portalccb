@@ -1,0 +1,24 @@
+[04-Jan-2018 22:11:33 America/Mexico_City] PHP Warning:  include(inc/Main_A.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[04-Jan-2018 22:11:33 America/Mexico_City] PHP Warning:  include(inc/Main_A.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[04-Jan-2018 22:11:33 America/Mexico_City] PHP Warning:  include(): Failed opening 'inc/Main_A.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[04-Jan-2018 22:11:33 America/Mexico_City] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[04-Jan-2018 22:11:33 America/Mexico_City] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[04-Jan-2018 22:11:33 America/Mexico_City] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[04-Jan-2018 22:11:38 America/Mexico_City] PHP Warning:  include(inc/Main_A.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[04-Jan-2018 22:11:38 America/Mexico_City] PHP Warning:  include(inc/Main_A.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[04-Jan-2018 22:11:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'inc/Main_A.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[04-Jan-2018 22:11:38 America/Mexico_City] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[04-Jan-2018 22:11:38 America/Mexico_City] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[04-Jan-2018 22:11:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[06-Jan-2018 18:50:54 America/Mexico_City] PHP Warning:  include(inc/Main_A.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[06-Jan-2018 18:50:54 America/Mexico_City] PHP Warning:  include(inc/Main_A.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[06-Jan-2018 18:50:54 America/Mexico_City] PHP Warning:  include(): Failed opening 'inc/Main_A.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[06-Jan-2018 18:50:54 America/Mexico_City] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[06-Jan-2018 18:50:54 America/Mexico_City] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[06-Jan-2018 18:50:54 America/Mexico_City] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[06-Jan-2018 18:50:58 America/Mexico_City] PHP Warning:  include(inc/Main_A.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[06-Jan-2018 18:50:58 America/Mexico_City] PHP Warning:  include(inc/Main_A.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[06-Jan-2018 18:50:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'inc/Main_A.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/empleosccb/public_html/Ofertas/Oferta.php on line 50
+[06-Jan-2018 18:50:58 America/Mexico_City] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[06-Jan-2018 18:50:58 America/Mexico_City] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
+[06-Jan-2018 18:50:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/empleosccb/public_html/Ofertas/Oferta.php on line 133
